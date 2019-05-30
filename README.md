@@ -67,3 +67,5 @@ UAI-CUP-2017目录下的文件为各种不同的ML/DL模型代码，运行分为
 |MLP |0.5919|0.6121|**2.1574**|不使用ID|
 |MLP |0.5845|0.6049|**2.1474**|使用ID|
 
+## Copyright
+The Owner of this project is Dr.E(Tongji University 436Lab), My contribute is the data process.
